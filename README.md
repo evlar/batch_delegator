@@ -25,3 +25,4 @@ Ensure that the `validator_hotkeys.csv` file is in the same directory as the scr
 - **batch_delegator.py**: The main Python script that automates batch delegation.
 - **validator_hotkeys.csv**: A CSV file containing names and addresses of validators. This data is essential for the script to perform batch operations.
 
+# batch_delegator
