@@ -7,7 +7,6 @@ This repository contains a Python script, `batch_delegator.py`, designed to make
 ## Requirements
 - Python 3.x
 - Bittensor library
-- Additional Python libraries as required (please refer to `requirements.txt`)
 
 ## Installation
 To set up the project, follow these steps:
